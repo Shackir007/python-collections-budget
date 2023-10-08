@@ -1,4 +1,6 @@
-from . import Expense
+#!C:\Users\user\Documents\GitHub\python-collections-budget\budget
+
+from Expense import Expense
 import matplotlib.pyplot as plt
 
 def main():
@@ -9,3 +11,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+ 
+ 
